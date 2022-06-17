@@ -1,0 +1,24 @@
+.boton-inicio {
+    text-decoration:none;
+    font-weight:100;
+    font-size:10px;
+    color:#000000;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:100px;
+    padding-right:100px;
+    background-color:#f1a43e;
+    }
+
+    .boton-inicio {
+        position: absolute;
+        top: 50px; left: 1060px;
+        }
+
+
+        body {
+            height: 400px;
+            background-image: url("https://old.ciesas.edu.mx/wp-content/uploads/2019/08/09-Septiembre_flat-1080x675.png");
+          background-size: cover;
+            background-repeat:no-repeat;
+            background-position: center center;

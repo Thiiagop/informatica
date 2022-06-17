@@ -1,0 +1,110 @@
+.boton-personalizado {
+    text-decoration:none;
+    font-weight:100;
+    font-size:10px;
+    color:#000000;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:100px;
+    padding-right:100px;
+    background-color:#ce1616b7;
+    }
+
+    .boton-personalizado {
+        position: absolute;
+        top: 50px; left: 350px;
+    }
+
+
+    .boton-educacion {
+        text-decoration:none;
+        font-weight:100;
+        font-size:10px;
+        color:#000000;
+        padding-top:10px;
+        padding-bottom:10px;
+        padding-left:100px;
+        padding-right:100px;
+        background-color:#ce1616b7;
+        }
+   
+        .boton-educacion {
+            position: absolute;
+            top: 50px; left: 20px;
+            }
+
+
+            .boton-familia {
+                text-decoration:none;
+                font-weight:100;
+                font-size:10px;
+                color:#000000;
+                padding-top:10px;
+                padding-bottom:10px;
+                padding-left:100px;
+                padding-right:100px;
+                background-color:#ce1616b7;
+                }
+           
+                .boton-familia {
+                    position: absolute;
+                    top: 50px; left: 700px;
+                    }
+
+
+
+                    .boton-libres {
+                        text-decoration:none;
+                        font-weight:100;
+                        font-size:10px;
+                        color:#000000;
+                        padding-top:10px;
+                        padding-bottom:10px;
+                        padding-left:100px;
+                        padding-right:100px;
+                        background-color:#ce1616b7;
+                        }
+                   
+                        .boton-libres {
+                            position: absolute;
+                            top: 50px; left: 1040px;
+                            }
+
+
+                            .boton-inicio {
+                                text-decoration:none;
+                                font-weight:100;
+                                font-size:10px;
+                                color:#ffffff;
+                                padding-top:10px;
+                                padding-bottom:10px;
+                                padding-left:100px;
+                                padding-right:100px;
+                                background-color:#7a7a7a;
+                                }
+                           
+                                .boton-inicio {
+                                    position: absolute;
+                                    top: 90px; left: 1020px;
+                                    }
+                         
+                                    .boton-inicio3 {
+                                        text-decoration:none;
+                                        font-weight:100;
+                                        font-size:17px;
+                                        color:#000000;
+                                        padding-top:10px;
+                                        padding-bottom:17px;
+                                        padding-left:80px;
+                                        padding-right:100px;
+                                        background-color:#60a9ca;
+                                        }
+                                   
+                                        .boton-inicio3 {
+                                            position: absolute;
+                                            top: 110px; left: 1060px;
+                                            }
+
+
+                                            
+                                           

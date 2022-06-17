@@ -1,0 +1,24 @@
+.boton-inicio {
+    text-decoration:none;
+    font-weight:100;
+    font-size:10px;
+    color:#000000;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:100px;
+    padding-right:100px;
+    background-color:#f39010;
+    }
+
+    .boton-inicio {
+        position: absolute;
+        top: 50px; left: 1060px;
+        }
+
+
+        body {
+            height: 400px;
+            background-image: url("https://www.etapainfantil.com/wp-content/uploads/2021/06/Familia-funcional-800x533.jpg");
+          background-size: cover;
+            background-repeat:no-repeat;
+            background-position: center center;
